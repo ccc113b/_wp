@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Introduction</h1>
+<a>Hello, My name is wincent william and my chinese name is 洪韋升.</a>
+
+<h2>My Education</h2>
+<b>2020 - 2024  :Dian Bangsa School Senior, Indonesia.</b>
+<c>2024 - Now   :國立金門大學，台灣.</c>    
+
+<h3>My Hobbies</h3>
+<d1>
+    <a1>Playing chess.</a1>
+    <b2>Playing badminton.</b2>
+    <c2>Singing.</c2>
+    <d2>Playing games.</d2>
+</d1>
+
+<h4>My Contact</h4>
+<E1>Contact me on gmail:<a href="mailto: s111310523@student.nqu.edu.tw">s111310523@student.nqu.edu.tw</a></E1>
+
+</body>
+</html>
